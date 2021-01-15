@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: center;
+}
+h3{
+    margin-top: 50px;
+}
+body {
+    overflow: hidden;
+    margin: 0;
+  }
+  .confettiCanvas{
+    overflow: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+      background: transparent;
+    }
+    p{
+      font-size: xx-small;
+    }
